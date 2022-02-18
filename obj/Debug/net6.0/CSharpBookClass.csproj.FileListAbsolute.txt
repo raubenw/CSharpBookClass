@@ -1,0 +1,15 @@
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBookClass\obj\Debug\net6.0\CSharpBookClass.csproj.AssemblyReference.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBookClass\obj\Debug\net6.0\CSharpBookClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBookClass\obj\Debug\net6.0\CSharpBookClass.AssemblyInfoInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBookClass\obj\Debug\net6.0\CSharpBookClass.AssemblyInfo.cs
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBookClass\obj\Debug\net6.0\CSharpBookClass.csproj.CoreCompileInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBookClass\bin\Debug\net6.0\CSharpBookClass.exe
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBookClass\bin\Debug\net6.0\CSharpBookClass.deps.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBookClass\bin\Debug\net6.0\CSharpBookClass.runtimeconfig.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBookClass\bin\Debug\net6.0\CSharpBookClass.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBookClass\bin\Debug\net6.0\ref\CSharpBookClass.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBookClass\bin\Debug\net6.0\CSharpBookClass.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBookClass\obj\Debug\net6.0\CSharpBookClass.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBookClass\obj\Debug\net6.0\ref\CSharpBookClass.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBookClass\obj\Debug\net6.0\CSharpBookClass.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpBookClass\obj\Debug\net6.0\CSharpBookClass.genruntimeconfig.cache
